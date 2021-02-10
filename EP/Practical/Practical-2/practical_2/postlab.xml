@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students_info
+	xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+	xsi:noNamespaceSchemaLocation='postlab.xsd'>
+	<student>
+		<regno>190031187</regno>
+		<name>RK</name>
+		<avg>90</avg>
+		<dob>2002-06-20</dob>
+		<time>18:10:00</time>
+		<mobile no="7286009239"></mobile>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190031134</regno>
+		<name>PAVAN</name>
+		<avg>90</avg>
+		<dob>2001-11-18</dob>
+		<time>14:10:00</time>
+		<mobile no="9874652130"></mobile>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190031249</regno>
+		<name>MOHITH</name>
+		<avg>90</avg>
+		<dob>2002-05-19</dob>
+		<time>13:10:00</time>
+		<mobile no="6548972331"></mobile>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190031177</regno>
+		<name>NAVNEET</name>
+		<avg>90</avg>
+		<dob>2001-02-15</dob>
+		<time>15:10:00</time>
+		<mobile no="7852314695"></mobile>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190030004</regno>
+		<name>RITHIK</name>
+		<avg>90</avg>
+		<dob>2001-04-25</dob>
+		<time>17:10:00</time>
+		<mobile no="8654123692"></mobile>
+		<distinction>YES</distinction>
+	</student>
+</students_info>

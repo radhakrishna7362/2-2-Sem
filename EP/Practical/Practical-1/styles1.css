@@ -1,0 +1,36 @@
+heading{
+    background-color:greenyellow;
+    font-weight:bold;
+    font-size:40px;
+    display: block;
+    text-align: center;
+}
+
+books{
+    background-color:lightblue;
+}
+
+book{
+    margin:10px;
+    padding: 5px;
+    border: 3px solid black;
+    color:white;
+    font-size:30px;
+    display:block;
+    align-content: center;
+    background-color: coral;
+}
+
+title{
+    font-size:25px;
+    color:blue;
+    background-color:grey;
+    display:block;
+    text-align: center;
+}
+
+author,publisher,edition,price{
+    font-size:20px;
+    display:block;
+    text-align: center;
+}

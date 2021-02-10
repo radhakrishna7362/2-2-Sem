@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\NV PRASAD\Desktop\B.Tech\B.TECH 2ND YEAR 2ND SEM\EP\Practical\Practical-2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2242638085.index
+1898779845.index
+1272272896.index
+2501410302.index
+788889752.index
+350738479.index

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="inlab.xsl"?>
+<books>  
+    <book> 
+        <title>Web Programming</title> 
+        <author> Chrisbates</author> 
+        <publisher>P Wiley</publisher> 
+        <edition>3</edition> 
+        <price> 300</price> 
+    </book>
+    <book> 
+        <title>Python Programming</title> 
+        <author> G.V.Rossum</author> 
+        <publisher>Pypi</publisher> 
+        <edition>3</edition> 
+        <price> 500</price> 
+    </book>
+    <book> 
+        <title>Java Programming</title> 
+        <author> J.Gosling</author> 
+        <publisher> Oracle</publisher> 
+        <edition>8</edition> 
+        <price> 800</price> 
+    </book>
+    <book> 
+        <title>Dynamic Programming</title> 
+        <author>Au Cris</author> 
+        <publisher> Aakash</publisher> 
+        <edition> 7</edition> 
+        <price>  750</price> 
+    </book>
+    <book> 
+        <title> R Programming</title> 
+        <author>A John</author> 
+        <publisher> Crisit</publisher> 
+        <edition>2</edition> 
+        <price> 930</price> 
+    </book>
+</books>

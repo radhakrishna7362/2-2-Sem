@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="styles1.css"?> 
+<books>
+    <heading>Action and Adventure</heading>
+    <book>
+        <title >Title -: Sandstorm</title> 
+        <author>Author -: James Rollins</author> 
+        <publisher>Publisher -: Map of Bones</publisher> 
+        <price> Price -: 700</price>
+    </book>
+    <book>
+        <title >Title -: The Call of the Wild</title> 
+        <author>Author -:  Jack London</author> 
+        <publisher>Publisher -: Santa Clara Valley</publisher> 
+        <price> Price -: 900</price>
+    </book>
+    <heading>Classics</heading>     
+    <book>
+        <title >Title -: Lord of the Flies</title> 
+        <author>Author -:  William Golding</author> 
+        <publisher>Publisher -: Faber and Faber</publisher> 
+        <price> Price -: 600</price>
+    </book>
+    <book>
+        <title >Title -:A Tale of Two Cities </title> 
+        <author>Author -: Charles Dickens </author> 
+        <publisher>Publisher -: Chapman and Hall </publisher> 
+        <price> Price -: 500</price>
+    </book>
+    <heading>Detective and Mystery.</heading>      
+    <book>
+        <title >Title -: Murder on the Orient Express</title> 
+        <author>Author -: Agatha Christie </author> 
+        <publisher>Publisher -:Collins Crime Club </publisher> 
+        <price> Price -: 1000</price>
+    </book>
+    <book>
+        <title >Title -: The Murder of Roger Ackroyd</title> 
+        <author>Author -: Agatha Christie  </author> 
+        <publisher>Publisher -: HarperCollins </publisher> 
+        <price> Price -: 900</price>
+    </book>
+    <heading>Historical Fiction.</heading>      
+    <book>
+        <title >Title -: Wolf Hall </title> 
+        <author>Author -: Hilary Mantel </author> 
+        <publisher>Publisher -: HarperCollins </publisher> 
+        <price> Price -: 700</price>
+    </book>
+    <book>
+        <title >Title -: The Pillars of the Earth</title> 
+        <author>Author -: Ken Follett  </author> 
+        <publisher>Publisher -:  The Evening and the Morning </publisher> 
+        <price> Price -: 900</price>
+    </book>
+    <heading>Horror.</heading>
+    <book>
+        <title >Title -: The Haunting of Hill House </title> 
+        <author>Author -: Shirley Jackson </author> 
+        <publisher>Publisher -: Shirley Jackson </publisher> 
+        <price> Price -: 800</price>
+    </book>
+    <book>
+        <title >Title -: House of Leaves </title> 
+        <author>Author -: Mark Z. Danielewski   </author> 
+        <publisher>Publisher -:  The Whalestoe Letters </publisher> 
+        <price> Price -: 1100</price>
+    </book>     
+</books>         
